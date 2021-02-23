@@ -4,4 +4,4 @@ I use this repository to set up the learning projects of the bootcamp and to col
 
 I also use the Kanban board in the Project section to manage my learning tasks!
 
-And remeber: DON't PANIC!
+And remeber: DON'T PANIC!
